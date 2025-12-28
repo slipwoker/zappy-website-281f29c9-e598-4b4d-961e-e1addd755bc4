@@ -1,0 +1,68 @@
+# טבע קלאב - מועדון המטפלים הישראלי — Generative Engine Optimization Map
+
+> מועדון המטפלים הישראלי - טבע קלאב (ע״ר) - עמותה המספקת שירותים, קורסים והתמחויות למטפלים בתחום הבריאות הטבעית והמשלימה, כולל הטבות ומבצעים לחברי המועדון
+
+---
+
+## Pages
+
+### דף הבית
+https://-281f29c9.zappy5.app
+הצטרפו למועדון המטפלים הישראלי לקורסים מקצועיים, התמחויות נטורופתיה והטבות בלעדיות. קורס נטורופתיה מקוון בישראל מהמובילים בתחום.
+
+### שירותים
+https://-281f29c9.zappy5.app/services
+גלו את מגוון השירותים שלנו: קורס נטורופתיה מקוון בישראל, תזונה לפי סוג דם טיפים, התמחויות מקצועיות והטבות בלעדיות לחברי המועדון.
+
+### אודות
+https://-281f29c9.zappy5.app/about
+הכירו את מועדון המטפלים המוביל בישראל. למדו על החזון שלנו לקדם נטורופתיה אלטרנטיבית, קורס נטורופתיה מקוון בישראל והקהילה המקצועית שלנו.
+
+### צור קשר
+https://-281f29c9.zappy5.app/contact
+צרו קשר עם מועדון המטפלים הישראלי לפרטים נוספים על קורס נטורופתיה מקוון בישראל, תזונה לפי סוג דם טיפים והצטרפות למועדון המקצועי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-281f29c9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-281f29c9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-281f29c9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טבע קלאב - מועדון המטפלים הישראלי
+מועדון המטפלים הישראלי - טבע קלאב (ע״ר) - עמותה המספקת שירותים, קורסים והתמחויות למטפלים בתחום הבריאות הטבעית והמשלימה, כולל הטבות ומבצעים לחברי המועדון
+
+## Services/Products
+- התמחויות וקורסים למטפלים
+- קורסים וסמינרים לקהל שוחר בריאות
+- טיפים ומידע בריאותי
+- הטבות ומבצעים לחברי המועדון
+- אזור מטפלים מקצועי
+
+## Target Audience
+- הורים בריאים-מודעים
+- מחפשי בריאות אלטרנטיבית
+- נשים מקצועיות בתחום הבריאות
+- חובבי כושר ותזונה
+- מתחילים בתחום התזונה
+
+## Industry
+רפואה משלימה ונטורופתיה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-281f29c9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-281f29c9.zappy5.app/robots.txt
